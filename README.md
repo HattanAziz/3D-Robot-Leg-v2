@@ -1,4 +1,6 @@
 # 3D-Robot-Leg-v2
+# This is not my specialty, but I wanted to learn Mechanical Engineering and design 3D design
+
 Design the legs of a three-dimensional robot with a height of 64 cm , In the course of mechanical engineering 
 
 # Design the legs of a three-dimensional robot with a height of 64 cm , In the course of mechanical engineering ,
